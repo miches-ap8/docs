@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "As1 Beta",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/As1-logo-white.svg",
+    "light": "/logo/As1-logo-black.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
