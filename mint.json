@@ -21,14 +21,14 @@
       "url": "mailto:info@applic8.com"
     }
   ],
-
+ 
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
     }
   ],
-  "navigation": [
+   "navigation": [
     {
       "group": "Get Started",
       "pages": [
