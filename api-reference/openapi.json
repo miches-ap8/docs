@@ -179,7 +179,6 @@
                         }
                       }
                     ]
-
                 },
                 "schema": {
                   "type": "array",
