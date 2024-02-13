@@ -1,0 +1,48 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "As1 Unified API",
+  "logo": {
+    "dark": "/logo/As1-logo-white.svg",
+    "light": "/logo/As1-logo-black.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#4db3ff",
+    "light": "#4db3ff",
+    "dark": "#4db3ff",
+    "anchors": {
+      "from": "#4db3ff",
+      "to": "#4db3ff"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:info@applic8.com"
+    }
+  ],
+  "primaryTab": {
+    "name": "Getting Started"
+  },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
+   "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction",
+        "integrations"
+      ]
+    }
+
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://www.linkedin.com/company/mintsearch"
+  }
+}
