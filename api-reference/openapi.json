@@ -39,9 +39,6 @@
             "content": {
               "application/json": {
                 "example" : {
-                  "status": "success",
-                  "data": {
-                    "next": "eyJwYWdlIjoxMiwibm90ZSI6InRoaXMgaXMganVzdCBhbiBleGFtcGxlIGFuZCBub3QgcmVwcmVzZW50YXRpdmUgZm9yIGEgcmVhbCBjdXJzb3IhIn0=",
                     "results": [
                       {
                         "id": "26vafvWSRmbhNcxJYqjCzuJg",
@@ -182,8 +179,8 @@
                         }
                       }
                     ]
-                  }
-                }
+
+                },
                 "schema": {
                   "type": "array",
                   "items": {
