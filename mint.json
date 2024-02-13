@@ -30,11 +30,10 @@
   ],
    "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
         "introduction",
-        "integrations",
-        "quickstart"
+        "integrations"
       ]
     }
 
