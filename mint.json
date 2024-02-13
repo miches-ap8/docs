@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "As1 Unified API",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/As1-logo-white.svg",
+    "light": "/logo/As1-logo-black.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
