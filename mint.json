@@ -33,7 +33,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "integrations"
+        "integrations", 
+        "quickstart"
       ]
     }
    
